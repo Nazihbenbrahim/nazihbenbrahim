@@ -1,10 +1,9 @@
 <!-- =========================
-   Ben Brahim Nazih • Profile README
-   Clean + Premium + Strong Tech Stack
+   Ben Brahim Nazih • Profile README (Go/K8s/Docker Focus)
    ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0ea5e9,100:8b5cf6&text=Ben%20Brahim%20Nazih&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Native%20%7C%20Kubernetes%20%7C%20DevOps%20%7C%20Platform%20Engineering&descAlignY=62&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0ea5e9,100:8b5cf6&text=Ben%20Brahim%20Nazih&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Go%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Docker%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20DevOps%20%2F%20Platform&descAlignY=70&descSize=14" />
 </p>
 
 <p align="center">
@@ -19,83 +18,92 @@
 
 <p align="center">
   <b>Cloud infrastructure & delivery engineering</b><br/>
-  <sub>I build reproducible deployments, automation workflows, and observable systems.</sub>
+  <sub>Building reproducible deployments, automation workflows, and observable systems.</sub>
 </p>
 
 ---
 
-## 👋 About
-I’m **Ben Brahim Nazih** — focused on **Cloud Native**, **Kubernetes**, and **DevOps / Platform Engineering**.
+## ⚡ Core Focus
+<p align="center">
+  <img src="https://img.shields.io/badge/GO-111827?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/KUBERNETES-111827?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-111827?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-- ✅ Build & deploy workflows (CI/CD + containers)
-- ✅ Cloud environments (IaC mindset)
-- ✅ Kubernetes-ready packaging (Helm/Kustomize)
-- ✅ Observability basics (metrics/logs dashboards)
-
----
-
-## 🚀 Featured Projects
-> Pin 4–6 repos to match this section (Profile → Customize profile → Pinned).
-
-| Project | What it shows | Stack |
-|---|---|---|
-| **callcenterai** | ML/service experiments + packaging mindset | Python, Docker |
-| **SchoolPilot** | Full-stack structure & delivery | MERN |
-| **SentinelAI** | ML experimentation & notebooks | Python/Jupyter |
-| **BuffaLogs** *(if public)* | Monitoring/logging direction | Observability |
+- **Go**: backend tooling, APIs, automation utilities (clean code + tests)
+- **Kubernetes**: workload packaging & deployment workflows (Helm/Kustomize)
+- **Docker**: containerization, reproducible environments, local dev parity
 
 ---
 
-## 🧰 Technologies (Big stack, clean layout)
+## 🧠 About
+I’m focused on **Cloud Native**, **Kubernetes**, and **DevOps / Platform Engineering**:
+- ✅ Build & deploy workflows (**CI/CD + containers**)
+- ✅ Cloud environments (**IaC mindset**)
+- ✅ Kubernetes-ready packaging (**Helm/Kustomize**)
+- ✅ Observability basics (**metrics/logs dashboards**)
+
+---
+
+## 🧰 Technologies (high signal, like “competitor style” but cleaner)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,githubactions,gitlab,jenkins,docker,kubernetes,helm,terraform,ansible,aws,gcp,azure,nginx,prometheus,grafana,postgres,mongodb,redis,python,go,js,ts&perline=11" />
+  <img src="https://skillicons.dev/icons?i=go,python,bash,linux,git,githubactions,gitlab,jenkins,docker,kubernetes,helm,terraform,ansible,aws,gcp,azure,nginx,prometheus,grafana,postgres,mongodb,redis&perline=11" />
 </p>
 
-### 🔹 DevOps & Cloud
+### DevOps & Cloud Native
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-111827?style=flat&logo=helm&logoColor=white)
 ![Kustomize](https://img.shields.io/badge/Kustomize-111827?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-111827?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-111827?style=flat&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-111827?style=flat&logo=nginx&logoColor=white)
 
-### 🔹 CI/CD
+### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-111827?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-111827?style=flat&logo=ansible&logoColor=white)
+
+### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-111827?style=flat&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=flat&logo=jenkins&logoColor=white)
 
-### 🔹 Observability
+### Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-111827?style=flat&logo=grafana&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-111827?style=flat&logo=elastic&logoColor=white)
 
-### 🔹 Cloud Platforms
+### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-111827?style=flat&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=flat&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-111827?style=flat&logo=microsoftazure&logoColor=white)
 
-### 🔹 Languages & Scripting
+### Languages & Data
 ![Go](https://img.shields.io/badge/Go-111827?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-111827?style=flat&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-111827?style=flat&logo=yaml&logoColor=white)
-
-### 🔹 Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-111827?style=flat&logo=redis&logoColor=white)
 
 ---
 
-## 📌 Working Style (credible signal)
-- I prefer **small, review-friendly commits**
-- I write short **notes/docs** before implementing large changes
-- I value **reproducibility** (scripts, setup steps, clear README)
-- I care about **clean structure** and maintainable code
+## 📌 Featured Projects
+> Pin 4–6 repos on your profile to match this section.
+
+| Project | What it shows | Stack |
+|---|---|---|
+| **callcenterai** | ML/service experiments + packaging mindset | Python, Docker |
+| **SchoolPilot** | Full-stack structure & delivery | MERN |
+| **SentinelAI** | ML experimentation & notebooks | Python/Jupyter |
+| **BuffaLogs** *(if public)* | Logging/monitoring direction | Observability |
+
+---
+
+## ✅ Working Style (this is what mentors/reviewers love)
+- Small PRs, clean commits, review-friendly diffs
+- Reproducible environments (scripts + docs)
+- Clear readmes, minimal but useful design notes
+- Prefer correctness + maintainability over “big changes”
 
 ---
 
